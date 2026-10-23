@@ -83,7 +83,6 @@ The project uses Tableau's relational data model to connect the five datasets.
 ### Tableau Data Model
 
 
-
 **Primary Fact Table:** `sales.csv`
 
 **Dimension Tables:** `products.csv`, `category.csv`, `stores.csv`
