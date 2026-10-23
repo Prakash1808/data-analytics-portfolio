@@ -1,4 +1,6 @@
-# 🏥 Hospital Resource Utilization & Emergency Forecasting
+# 🏥 Hospital Resource Utilization & Patient Flow Analytics
+
+### Python & MySQL | Exploratory Data Analysis | Data Analytics Portfolio Project
 
 ## 📌 Project Overview
 Hospitals operate in highly dynamic environments where sudden emergency cases, ICU bed shortages, long waiting times, and inefficient resource allocation can significantly impact patient care.
