@@ -147,9 +147,6 @@ Developed an interactive Excel analytics dashboard that demonstrates the ability
 - Calculate and interpret portfolio KPIs.
 - Communicate business findings through interactive visualizations.
 
-## 📸 Dashboard Preview
-
-Add a high-resolution screenshot of the completed dashboard here.
 
 ## 👤 Author
 
