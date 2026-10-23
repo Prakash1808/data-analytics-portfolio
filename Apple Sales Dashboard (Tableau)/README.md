@@ -82,7 +82,7 @@ The project uses Tableau's relational data model to connect the five datasets.
 
 ### Tableau Data Model
 
-![Tableau Data Model](assets/tableau-data-model.png)
+
 
 **Primary Fact Table:** `sales.csv`
 
@@ -205,7 +205,6 @@ The Tableau project contains three analytical dashboard pages.
 
 ### 1. Executive Sales Overview
 
-![Executive Sales Overview](assets/executive-sales-overview.png)
 
 This dashboard provides an executive-level summary of global Apple product sales.
 
@@ -226,7 +225,7 @@ This dashboard provides an executive-level summary of global Apple product sales
 
 ### 2. Product & Store Performance
 
-![Product and Store Performance](assets/product-store-performance.png)
+
 
 This dashboard focuses on product category contributions, sales quantity, and geographical market performance.
 
@@ -239,7 +238,7 @@ This dashboard focuses on product category contributions, sales quantity, and ge
 
 ### 3. Warranty & Claims Analysis
 
-![Warranty and Claims Analysis](assets/warranty-claims-analysis.png)
+
 
 This dashboard analyzes warranty coverage classifications and claims across sales years, product categories, and countries.
 
@@ -381,27 +380,7 @@ This reflects the dashboard's calculated classification and is not independently
 
 **Tableau | Tableau Relationships | Calculated Fields | Data Modeling | Data Validation | KPI Reporting | Sales Analytics | Retail Analytics | Geographic Mapping | Trend Analysis | Warranty Analytics | Business Intelligence | Data Visualization**
 
-## 📂 Repository Structure
 
-The GitHub project contains the README, source datasets, and dashboard screenshots.
-
-```text
-APPLE_Sales_Analytics_Tableau/
-├── README.md
-├── data/
-│   ├── category.csv
-│   ├── products.csv
-│   ├── sales.csv
-│   ├── stores.csv
-│   └── warranty.csv
-└── assets/
-    ├── executive-sales-overview.png
-    ├── product-store-performance.png
-    ├── warranty-claims-analysis.png
-    └── tableau-data-model.png
-```
-
-The supplied project package includes the datasets and screenshots. An editable Tableau workbook (`.twb` or `.twbx`) is not included.
 
 ## 🚀 Project Outcome
 
