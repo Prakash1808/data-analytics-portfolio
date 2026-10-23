@@ -219,13 +219,6 @@ Developed a Python and MySQL analytics project demonstrating the ability to:
 - Visualize hospital operational patterns.
 - Communicate analytical findings and limitations.
 
-## 📸 Visualization Preview
-
-Add screenshots of the completed notebook charts here:
-
-- Total Time vs Resource Cost
-- Resource Cost by Age Group
-- Monthly Visit Trend
 
 ## 📂 Project File
 
