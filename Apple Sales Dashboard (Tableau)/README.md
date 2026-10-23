@@ -126,7 +126,6 @@ Department Visit Count ÷ Total Analyzed Records × 100
 
 ## 📈 Data Visualizations
 
-The Jupyter notebook contains three exploratory visualizations.
 
 **1. Total Time vs Resource Cost**
 
