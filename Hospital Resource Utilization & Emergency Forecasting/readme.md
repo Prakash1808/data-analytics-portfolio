@@ -114,6 +114,16 @@ To analyze hospital visit data and identify emergency trends, resource usage pat
 - Healthcare domain analytics experience  
 
 ---
+## 📂 Project File
 
-## 📌 Conclusion
-This project demonstrates how data analytics can support hospitals in making informed decisions related to emergency pr
+Hospital Data Analysis .ipynb
+
+Contains Python code, saved analytical outputs, exploratory visualizations, and project discussion.
+
+## 👤 Author
+
+Prakash Ananda Shelake
+
+Data Analyst | SQL | Python | Power BI | Tableau | Advanced Excel
+
+GitHub: Prakash1808
