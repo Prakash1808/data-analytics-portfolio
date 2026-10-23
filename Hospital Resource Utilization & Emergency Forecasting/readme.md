@@ -114,16 +114,17 @@ To analyze hospital visit data and identify emergency trends, resource usage pat
 - Healthcare domain analytics experience  
 
 ---
+
 ## 📂 Project File
 
-Hospital Data Analysis .ipynb
+**Hospital Data Analysis .ipynb**
 
 Contains Python code, saved analytical outputs, exploratory visualizations, and project discussion.
 
 ## 👤 Author
 
-Prakash Ananda Shelake
+**Prakash Ananda Shelake**
 
 Data Analyst | SQL | Python | Power BI | Tableau | Advanced Excel
 
-GitHub: Prakash1808
+GitHub: [Prakash1808](https://github.com/Prakash1808)
